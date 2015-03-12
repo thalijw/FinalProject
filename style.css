@@ -1,0 +1,117 @@
+* {
+	font-family: century gothic , Arial;
+	font-size : 14pt;
+}
+
+body {
+	
+	margin : 20px auto;
+	background: #fffff6;
+	
+}
+
+html {
+	background : #fffff6;
+}
+
+img {
+	border : 1px solid black;
+	margin-right: 15px;
+	-moz-box-shadow : 2px 2px 2px #555555;
+	-webkit-box-shadow: 2px 2px 2px #555555;
+	box-shadow: 2px 2px 2px #555555;
+}
+
+li a, .button {
+	text-decoration: none;
+	color: #00cc33;
+}
+
+li a:hover , .button:hover {
+	color : white;
+}
+
+.appname {
+	text-align: center;
+	background: #333333;
+	color: #00cc33;
+	font-family: century gothic , Arial;
+	font-size: 20pt;
+	padding-left: 20px;
+	height: 100px;
+
+}
+
+.fieldname {
+	float:left;
+	width : 120px;
+}
+
+.main {
+	margin-left: 40px;
+	color: black;
+}
+
+.info {
+	background: #333333;
+	color: #00cc33;
+	border: 1px, solid green;
+	padding: 5px 10px;
+	margin-left: 40px;
+}
+
+.menu li, .button {
+	display : inline;
+	padding: 4px 6px;
+	border: 1px solid #777;
+	background: #333333;
+	color: #00cc33;
+	margin-right: 8px;
+	border-radius: 5px;
+	-moz-box-shadow : 2px 2px 2px #555555;
+	-webkit-box-shadow: 2px 2px 2px #555555;
+	box-shadow: 2px 2px 2px #555555;
+}
+
+.subhead {
+	font-weight: bold;
+}
+.taken, .error {
+	color:red;
+}
+.available {
+	color :green;
+}
+.whisper {
+	font-style: italic;
+	color:#006600;
+}
+#logo {
+	font-family: Georgia;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 95px;
+}
+#But1 {
+	display : inline;
+	padding: 4px 6px;
+	border: 1px solid #777;
+	background: #333333;
+	color: #00cc33;
+	margin-right: 8px;
+	border-radius: 5px;
+	-moz-box-shadow : 2px 2px 2px #555555;
+	-webkit-box-shadow: 2px 2px 2px #555555;
+	box-shadow: 2px 2px 2px #555555;
+	font-size: 10pt;
+}
+
+
+
+
+
+
+
+
+
+
